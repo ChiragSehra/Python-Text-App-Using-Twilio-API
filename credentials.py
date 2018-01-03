@@ -1,4 +1,4 @@
-account_sid = 'AC6dc01383ba2b4e0f7d56c5df18a16e06'
-auth_token = '790cb9a35a53e329498844c0f774920f'
-my_cell = '+919953747103'
-my_twilio = '+16052690360 '
+account_sid = 'Your Account ID'
+auth_token = 'Authorization Token'
+my_cell = 'Your Original Mobile Number'   # Remove '-' sign from your numbers and dont remove the Country Code
+my_twilio = 'Your Twilio Number'           # Remove '-' sign from your numbers and dont remove the Country Code
